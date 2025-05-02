@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sptcnl/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
