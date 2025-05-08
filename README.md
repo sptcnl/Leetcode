@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sptcnl/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/sptcnl/Leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sptcnl/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sptcnl/Leetcode/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sptcnl/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/sptcnl/Leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sptcnl/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
