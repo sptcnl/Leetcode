@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sptcnl/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sptcnl/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/sptcnl/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sptcnl/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sptcnl/Leetcode/tree/master/0136-single-number) |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sptcnl/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -58,4 +60,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sptcnl/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/sptcnl/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
