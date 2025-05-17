@@ -3,9 +3,9 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        n = len(matrix)
-        for i in range(n):
-            for j in range(i, n):
+        len_matrix = len(matrix)
+        for i in range(len_matrix):
+            for j in range(i + 1, len_matrix):
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
 
         for row in matrix:
