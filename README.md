@@ -73,6 +73,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sptcnl/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sptcnl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/sptcnl/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sptcnl/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sptcnl/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sptcnl/Leetcode/tree/master/0344-reverse-string) |
