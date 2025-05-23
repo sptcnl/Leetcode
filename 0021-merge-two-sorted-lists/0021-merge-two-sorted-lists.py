@@ -17,7 +17,7 @@ class Solution:
                 list2 = list2.next
             current = current.next
         
-        # 남은 노드 연결
-        current.next = list1 if list1 else list2
+        if list1 or list2:
+            current.next = list1 if list1 else list2
         
         return dummy.next
