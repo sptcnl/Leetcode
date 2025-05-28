@@ -12,6 +12,6 @@ class Solution:
             elif not left or not right:
                 return False
             else:
-                return left.val == right.val and isSubtreeSymmetric(left.left, right.right) and isSubtreeSymmetric(left.right, right.left)      
+                return (left.val == right.val) and (isSubtreeSymmetric(left.left, right.right)) and (isSubtreeSymmetric(left.right, right.left))
             
         return isSubtreeSymmetric(root, root)
