@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/sptcnl/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sptcnl/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sptcnl/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sptcnl/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sptcnl/Leetcode/tree/master/0136-single-number) |
@@ -22,6 +23,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sptcnl/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sptcnl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sptcnl/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sptcnl/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
@@ -57,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sptcnl/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
