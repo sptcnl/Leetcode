@@ -34,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sptcnl/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -45,6 +46,7 @@
 | [0007-reverse-integer](https://github.com/sptcnl/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sptcnl/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -164,4 +166,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sptcnl/Leetcode/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
