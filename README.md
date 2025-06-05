@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
+| [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,4 +179,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
