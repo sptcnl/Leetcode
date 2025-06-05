@@ -1,4 +1,4 @@
-from random import shuffle
+import random
 
 class Solution:
 
