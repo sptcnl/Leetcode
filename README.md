@@ -132,6 +132,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sptcnl/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sptcnl/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -182,6 +183,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sptcnl/Leetcode/tree/master/0155-min-stack) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Randomized
 |  |
