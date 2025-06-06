@@ -1,4 +1,4 @@
-import random
+from random import shuffle
 
 class Solution:
 
@@ -10,10 +10,7 @@ class Solution:
 
     def shuffle(self) -> List[int]:
         array = self.nums[:]
-        n = len(array)
-        for i in range(n):
-            j = random.randint(i, n - 1)  # i 이상 n-1 이하 중 무작위 인덱스
-            array[i], array[j] = array[j], array[i]  # 두 원소를 swap
+        shuffle(array)
         return array
 
 
