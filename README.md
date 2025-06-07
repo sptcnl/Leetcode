@@ -56,6 +56,7 @@
 | [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0412-fizz-buzz](https://github.com/sptcnl/Leetcode/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/sptcnl/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sptcnl/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sptcnl/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/sptcnl/Leetcode/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sptcnl/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
