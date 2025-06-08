@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/sptcnl/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sptcnl/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/sptcnl/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -55,6 +56,7 @@
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sptcnl/Leetcode/tree/master/0204-count-primes) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/sptcnl/Leetcode/tree/master/0412-fizz-buzz) |
 ## Hash Table
@@ -195,4 +197,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sptcnl/Leetcode/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sptcnl/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sptcnl/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
