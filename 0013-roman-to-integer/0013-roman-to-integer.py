@@ -35,7 +35,6 @@ class Solution:
         i = 0
         while i < len(s):
             j, num = self.to_int(s, i)
-            print(f"{s[i]}, {num}")
             i = j
             result += num
             i += 1
