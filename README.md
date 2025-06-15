@@ -104,6 +104,7 @@
 | [0008-string-to-integer-atoi](https://github.com/sptcnl/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/sptcnl/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sptcnl/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sptcnl/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sptcnl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sptcnl/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sptcnl/Leetcode/tree/master/0125-valid-palindrome) |
@@ -146,6 +147,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sptcnl/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/sptcnl/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sptcnl/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
