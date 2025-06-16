@@ -20,6 +20,7 @@
 | [0198-house-robber](https://github.com/sptcnl/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sptcnl/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
@@ -60,6 +61,7 @@
 | [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sptcnl/Leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sptcnl/Leetcode/tree/master/0326-power-of-three) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/sptcnl/Leetcode/tree/master/0412-fizz-buzz) |
@@ -72,6 +74,7 @@
 | [0141-linked-list-cycle](https://github.com/sptcnl/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sptcnl/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sptcnl/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -80,6 +83,7 @@
 | [0088-merge-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sptcnl/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
@@ -87,10 +91,12 @@
 | [0136-single-number](https://github.com/sptcnl/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sptcnl/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sptcnl/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/sptcnl/Leetcode/tree/master/0461-hamming-distance) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sptcnl/Leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
