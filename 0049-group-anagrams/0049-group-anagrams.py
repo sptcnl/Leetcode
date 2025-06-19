@@ -7,7 +7,6 @@ class Solution:
 
         for string in strs:
             sorted_str = tuple(sorted(string))
-            print(string, sorted_str)
             freq_dict[sorted_str].append(string)
 
         # 결과 추출
