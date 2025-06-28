@@ -16,6 +16,7 @@ class Solution:
         while queue:
             level_size = len(queue)
             level_nodes = []
+
             for _ in range(level_size):
                 node = queue.popleft()
                 level_nodes.append(node.val)
@@ -27,4 +28,5 @@ class Solution:
                 level_nodes.reverse()
             result.append(level_nodes)
             left_to_right = not left_to_right
+
         return result
