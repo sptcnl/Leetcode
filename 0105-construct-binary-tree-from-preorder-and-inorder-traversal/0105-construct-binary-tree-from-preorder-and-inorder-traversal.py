@@ -12,7 +12,8 @@ class Solution:
         root_val = preorder[0]
         root = TreeNode(root_val)
         root_idx = inorder.index(root_val)
-        
+
         root.left = self.buildTree(preorder[1:root_idx+1], inorder[:root_idx])
         root.right = self.buildTree(preorder[root_idx+1:], inorder[root_idx+1:])
+
         return root
