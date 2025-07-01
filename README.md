@@ -22,6 +22,7 @@
 | [0136-single-number](https://github.com/sptcnl/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sptcnl/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sptcnl/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sptcnl/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
@@ -123,6 +124,7 @@
 | [0036-valid-sudoku](https://github.com/sptcnl/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sptcnl/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/sptcnl/Leetcode/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [0101-symmetric-tree](https://github.com/sptcnl/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sptcnl/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sptcnl/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/sptcnl/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sptcnl/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
@@ -214,6 +217,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sptcnl/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sptcnl/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sptcnl/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/sptcnl/Leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,4 +278,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sptcnl/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sptcnl/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
