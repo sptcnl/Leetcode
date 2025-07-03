@@ -16,12 +16,12 @@ class Solution:
 
         result = []
 
-        def backtrack(index, path):
-            if index == len(digits):
+        def backtrack(idx, path):
+            if idx == len(digits):
                 result.append(path)
                 return
-            for char in phone_map[digits[index]]:
-                backtrack(index + 1, path + char)
+            for c in phone_map[digits[idx]]:
+                backtrack(idx+1, path+c)
         
         backtrack(0, "")
         return result
