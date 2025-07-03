@@ -2,12 +2,12 @@ class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         result = []
         def backtrack(s, left, right):
-            if len(s) == n * 2:
+            if len(s) == 2 * n:
                 result.append(s)
                 return
             if left < n:
                 backtrack(s+'(', left+1, right)
-            if right < left:
+            if left > right:
                 backtrack(s+')', left, right+1)
         backtrack("", 0, 0)
         return result
