@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/sptcnl/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sptcnl/Leetcode/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/sptcnl/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sptcnl/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sptcnl/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sptcnl/Leetcode/tree/master/0053-maximum-subarray) |
@@ -291,4 +292,5 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sptcnl/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sptcnl/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/sptcnl/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
