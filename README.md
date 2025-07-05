@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/sptcnl/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/sptcnl/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sptcnl/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sptcnl/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -110,6 +111,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sptcnl/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sptcnl/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sptcnl/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sptcnl/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -293,4 +295,5 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sptcnl/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sptcnl/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/sptcnl/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/sptcnl/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
