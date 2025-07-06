@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/sptcnl/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sptcnl/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sptcnl/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sptcnl/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sptcnl/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -129,6 +130,7 @@
 | [0036-valid-sudoku](https://github.com/sptcnl/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sptcnl/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sptcnl/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sptcnl/Leetcode/tree/master/0200-number-of-islands) |
 ## String
 |  |
@@ -144,6 +146,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sptcnl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sptcnl/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sptcnl/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/sptcnl/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sptcnl/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sptcnl/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sptcnl/Leetcode/tree/master/0344-reverse-string) |
@@ -209,6 +212,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sptcnl/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sptcnl/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sptcnl/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/sptcnl/Leetcode/tree/master/0101-symmetric-tree) |
@@ -296,4 +300,5 @@
 | [0022-generate-parentheses](https://github.com/sptcnl/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/sptcnl/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sptcnl/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sptcnl/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
