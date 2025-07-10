@@ -24,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sptcnl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sptcnl/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sptcnl/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/sptcnl/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sptcnl/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sptcnl/Leetcode/tree/master/0200-number-of-islands) |
@@ -129,6 +130,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/sptcnl/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sptcnl/Leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
