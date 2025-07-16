@@ -67,6 +67,7 @@
 | [0022-generate-parentheses](https://github.com/sptcnl/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sptcnl/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sptcnl/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sptcnl/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sptcnl/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sptcnl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@
 | [0007-reverse-integer](https://github.com/sptcnl/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/sptcnl/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sptcnl/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/sptcnl/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
@@ -341,4 +343,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sptcnl/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sptcnl/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sptcnl/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
