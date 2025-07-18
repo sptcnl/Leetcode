@@ -38,6 +38,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sptcnl/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/sptcnl/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sptcnl/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/sptcnl/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sptcnl/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -74,6 +75,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sptcnl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sptcnl/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sptcnl/Leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/sptcnl/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sptcnl/Leetcode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
@@ -148,6 +150,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sptcnl/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sptcnl/Leetcode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/sptcnl/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
