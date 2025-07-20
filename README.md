@@ -43,6 +43,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/sptcnl/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sptcnl/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sptcnl/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@
 | [0204-count-primes](https://github.com/sptcnl/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sptcnl/Leetcode/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sptcnl/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/sptcnl/Leetcode/tree/master/0412-fizz-buzz) |
 ## Hash Table
@@ -117,6 +119,7 @@
 | [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sptcnl/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sptcnl/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/sptcnl/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -308,10 +311,12 @@
 | ------- |
 | [0155-min-stack](https://github.com/sptcnl/Leetcode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sptcnl/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sptcnl/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sptcnl/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Simulation
 |  |
