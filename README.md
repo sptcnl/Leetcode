@@ -95,6 +95,7 @@
 | [0062-unique-paths](https://github.com/sptcnl/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sptcnl/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sptcnl/Leetcode/tree/master/0204-count-primes) |
