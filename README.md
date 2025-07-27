@@ -98,6 +98,7 @@
 | [0066-plus-one](https://github.com/sptcnl/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sptcnl/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sptcnl/Leetcode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sptcnl/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/sptcnl/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sptcnl/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sptcnl/Leetcode/tree/master/0189-rotate-array) |
@@ -121,6 +122,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sptcnl/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/sptcnl/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sptcnl/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sptcnl/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/sptcnl/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sptcnl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sptcnl/Leetcode/tree/master/0242-valid-anagram) |
@@ -190,6 +192,7 @@
 | [0049-group-anagrams](https://github.com/sptcnl/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sptcnl/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sptcnl/Leetcode/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sptcnl/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/sptcnl/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/sptcnl/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sptcnl/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
