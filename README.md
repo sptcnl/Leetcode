@@ -47,6 +47,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sptcnl/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/sptcnl/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0621-task-scheduler](https://github.com/sptcnl/Leetcode/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0055-jump-game](https://github.com/sptcnl/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sptcnl/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/sptcnl/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0621-task-scheduler](https://github.com/sptcnl/Leetcode/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sptcnl/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/sptcnl/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/sptcnl/Leetcode/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | [0268-missing-number](https://github.com/sptcnl/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sptcnl/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sptcnl/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/sptcnl/Leetcode/tree/master/0621-task-scheduler) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -216,6 +220,7 @@
 | [0169-majority-element](https://github.com/sptcnl/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sptcnl/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sptcnl/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/sptcnl/Leetcode/tree/master/0621-task-scheduler) |
 ## String Matching
 |  |
 | ------- |
@@ -376,6 +381,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sptcnl/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sptcnl/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/sptcnl/Leetcode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
