@@ -9,10 +9,12 @@ class Solution:
         result = []
         def dfs(node):
             if node:
-                if node.left:
-                    dfs(node.left)
+                node_left = node.left
+                node_right = node.right
+                if node_left:
+                    dfs(node_left)
                 result.append(node.val)
-                if node.right:
-                    dfs(node.right)
+                if node_right:
+                    dfs(node_right)
         dfs(root)
         return result
