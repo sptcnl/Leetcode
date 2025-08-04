@@ -12,13 +12,13 @@ class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if not root:
             return root
-        leftmost = root
-        while leftmost.left:
-            curr = leftmost
+        left_most = root
+        while left_most.left:
+            curr = left_most
             while curr:
                 curr.left.next = curr.right
                 if curr.next:
                     curr.right.next = curr.next.left
                 curr = curr.next
-            leftmost = leftmost.left
+            left_most = left_most.left
         return root
