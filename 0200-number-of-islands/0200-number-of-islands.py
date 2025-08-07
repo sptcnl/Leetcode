@@ -8,7 +8,6 @@ class Solution:
             visit(i-1, j)
             visit(i, j+1)
             visit(i, j-1)
-        
         count = 0
         for i in range(len(grid)):
             for j in range(len(grid[0])):
